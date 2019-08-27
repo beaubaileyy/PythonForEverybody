@@ -39,16 +39,30 @@ Parents - investing in my education and future success, want to make them proud
 Perspective Employers - artifact will be added to my student portfolio which could help with getting a job
 
 Timeline
+
 Week: 
+
 Chapter One - Why we Program? (3 hours)
+
 Chapter Two: Variables and Expressions (3 hours)
+
 Chapter Three: Conditional Code (3 hours)
+
 Chapter Five: Loops and Iteration (3 hours)
+
 Chapter Four: Functions (2 hours)
+
 Chapter Seven: Files (3 hours)
+
 Chapter Eight: Lists (3 hours)
+
 Chapter Six: Strings (3 hours)
+
 Chapter Nine: Dictionaries (3 hours)
+
 Chapter Ten: Tuples (2 hours)
+
 Graduation and work on independent program (2 hours)
+
 Complete independent program (2 hours)
+
