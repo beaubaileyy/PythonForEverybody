@@ -41,8 +41,11 @@ I can skip the Installing and Using Python units.
 Stakeholders
 -
 Professor - for grade
+
 Parents - investing in my education and future success, want to make them proud
+
 Perspective Employers - artifact will be added to my student portfolio which could help with getting a job
+
 
 Timeline
 -
