@@ -75,3 +75,6 @@ Graduation and work on independent program (2 hours)
 
 Complete independent program (2 hours)
 
+
+Log 1: 
+Started to go through the basic introductions of the course. Learned about the instuctor and some of the very basics of the course and why it was made. Ended after the "Why program?" section.
