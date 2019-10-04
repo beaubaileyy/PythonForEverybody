@@ -75,6 +75,9 @@ Graduation and work on independent program (2 hours)
 
 Complete independent program (2 hours)
 
+-
 
 Chapter 1: 
 Started to go through the basic introductions of the course. Learned about the instuctor and some of the very basics of the course and why it was made. Ended after the "Why program?" section. Mostly this section was about why programming is important and why people should have some basic knowledge of the course.
+
+Then he just went over installing python and getting it ready for use on your own computer.
