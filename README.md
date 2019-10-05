@@ -131,17 +131,51 @@ Comments in python - anything after a # is ignored in python
   - document who wrote the code
   - turn off a line of code (maybe temporarily)
 
-**Chapter 3: ( hours)**
+**Chapter 3: (3 hours)**
 
 If statement:
   - reserved word that indicates you're going to be doing something conditionally
   - if the criteria is true then it executes the code, if it is false it moves onto the next condition and tests the same thing over again 
   - certain code may or may not run 
+  - one way decision 
 
 Comparison operators: 
  - Boolean expressions asks a question and produces a yes or no result which you can use to control program flow
  - Boolean expressions using comparison operators evaluate to true/ false or yes/ no
  - Comparison operators look at variables but do not change the variables
+ 
+ **INDENTATION IN PYTHON IS VERY IMPORTANT**
+ There can be a difference between tab and the proper amount of spaces for an indent, most text editors turn tabs into spaces
+ Incorrect indentation can lead to errors in python 
+ Using spaces (4) is reccomended over using tab
+ 
+ Two-way decisions: 
+ - Sometimes you want to do one thing if a logical expression is true and something else if the expression is false 
+ - Like a fork in the road, must choose one path or the other, not both 
+ 
+ Else statment:
+ - within an if statement 
+ - introduces another condition within the if statement
+ 
+ Elif statement: 
+ - Combination of else and if 
+ - Can test multiple conditions
+ - Once one of the conditions is met it skips the rest of the code and prints result
+ - Runs until one of the conditions is met
+ - Starts with if then followed by however many elif statements 
+ - Can contain else at the end or you can leave else out 
+ - If there is an else statement at the end then at least one condition will be met, if there is no else its possible to not meet any conditions 
+ - Can have LOTS of elifs 
+ 
+ Try/ except structure:
+ - You surround a dangerous part of code with try and except
+ - If the code in the try works, the except is skipped 
+ - If the code in the try fails, it jumps to the except section 
+ - Usually used to test for errors within code without python actually stopping your code 
+ 
+ **Chapter 4: ( hours)**
+ 
+ 
  
  
 
