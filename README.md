@@ -134,5 +134,16 @@ Comments in python - anything after a # is ignored in python
 **Chapter 3: ( hours)**
 
 If statement:
-  - 
+  - reserved word that indicates you're going to be doing something conditionally
+  - if the criteria is true then it executes the code, if it is false it moves onto the next condition and tests the same thing over again 
+  - certain code may or may not run 
+
+Comparison operators: 
+ - Boolean expressions asks a question and produces a yes or no result which you can use to control program flow
+ - Boolean expressions using comparison operators evaluate to true/ false or yes/ no
+ - Comparison operators look at variables but do not change the variables
+ 
+ 
+
+
 
