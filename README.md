@@ -126,5 +126,12 @@ String conversions - You can use float() and int() to convert between strings an
 
 User input - You can instruct python to pause and read data from the user using input() function, this function returns a string 
 
+Comments in python - anything after a # is ignored in python
+  - comments can help you describe what code is doing
+  - document who wrote the code
+  - turn off a line of code (maybe temporarily)
+
+**Chapter 3: ( hours)**
+
 
 
