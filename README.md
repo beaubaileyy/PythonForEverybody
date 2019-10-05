@@ -97,3 +97,11 @@ Constants - value does not change, numeric values and strings are constants
 
 Reserved words - words that have some special function in python that you cannot use as variable names or identifiers
 
+Variables - a name you choose to identify something with, is stored in the memory so a programmer can store data and then retrieve it later through the variable name. You can even change the contents assigned to the variable in a later statement.
+  - must start with a letter or underscore 
+  - must only consist of letters, numbers, and underscores 
+  - are case sensitive 
+A good variable name is something that is friendly to the user and easily identified 
+
+Assignment statements - we assign a value to a variable using the assignment statement (=) an assignment statement consists of an expression on the right hand side and a variable to store the result
+
