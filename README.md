@@ -133,5 +133,6 @@ Comments in python - anything after a # is ignored in python
 
 **Chapter 3: ( hours)**
 
-
+If statement:
+  - 
 
