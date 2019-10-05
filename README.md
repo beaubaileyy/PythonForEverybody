@@ -80,4 +80,6 @@ Complete independent program (2 hours)
 Chapter 1: 
 Started to go through the basic introductions of the course. Learned about the instuctor and some of the very basics of the course and why it was made. Ended after the "Why program?" section. Mostly this section was about why programming is important and why people should have some basic knowledge of the course.
 
-Then he just went over installing python and getting it ready for use on your own computer.
+Then he just went over installing python and getting it ready for use on your own computer. He went over on how to download it on the main platforms such as windows and mac.
+
+He then briefly covers sequential steps and how computers simply go from one thing to the next thing. He then talks about conditional statements and how they lead to different answers.
