@@ -124,5 +124,7 @@ Integer division - integer division produces a floating point result
 
 String conversions - You can use float() and int() to convert between strings and integers, you will get an error if the string does not contain numeric characters 
 
+User input - You can instruct python to pause and read data from the user using input() function, this function returns a string 
+
 
 
