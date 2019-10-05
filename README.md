@@ -91,7 +91,7 @@ Conditional statements - if the certain criteria is true or false the computer w
 
 Repeated steps - These statements run code multiple times until certain criteria is met, for example with loops they have iteration variables that change each time the code is ran and basically force the code to run only a certain amount of times (for and while loops)
 
-**Chapter 2 : ( hours)**
+**Chapter 2 : (2 hours)**
 
 Constants - value does not change, numeric values and strings are constants 
 
