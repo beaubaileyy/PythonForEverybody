@@ -105,3 +105,4 @@ A good variable name is something that is friendly to the user and easily identi
 
 Assignment statements - we assign a value to a variable using the assignment statement (=) an assignment statement consists of an expression on the right hand side and a variable to store the result
 
+
