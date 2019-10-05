@@ -93,5 +93,7 @@ Repeated steps - These statements run code multiple times until certain criteria
 
 **Chapter 2 : ( hours)**
 
+Constants - value does not change, numeric values and strings are constants 
 
+Reserved words - words that have some special function in python that you cannot use as variable names or identifiers
 
