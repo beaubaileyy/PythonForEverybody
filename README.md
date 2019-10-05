@@ -77,7 +77,7 @@ Complete independent program (2 hours)
 
 -
 
-*Chapter 1: (2 hours)*
+**Chapter 1: (2 hours)**
 
 Started to go through the basic introductions of the course. Learned about the instuctor and some of the very basics of the course and why it was made. Ended after the "Why program?" section. Mostly this section was about why programming is important and why people should have some basic knowledge of the course.
 
@@ -91,7 +91,7 @@ Conditional statements - if the certain criteria is true or false the computer w
 
 Repeated steps - These statements run code multiple times until certain criteria is met, for example with loops they have iteration variables that change each time the code is ran and basically force the code to run only a certain amount of times (for and while loops)
 
-*Chapter 2 : ( hours)*
+**Chapter 2 : ( hours)**
 
 
 
