@@ -105,4 +105,24 @@ A good variable name is something that is friendly to the user and easily identi
 
 Assignment statements - we assign a value to a variable using the assignment statement (=) an assignment statement consists of an expression on the right hand side and a variable to store the result
 
+Operator precedence - When you string together operators in python it need to know what to do first, you indicate this through use of parenthesis
+
+Operator precedence rules - highest to lowest: Parenthesis, power, multiplication (and division and remainder), addition (and subtraction), and left to right
+
+Python knows the difference between integers and strings, however python cannot add an interger to a string.
+You can use the type() function to distinguish whether something is an integer or string
+
+Types of numbers:
+
+Integers - whole numbers 
+Floating point numbers - have decimal points
+There are other number types that are variations of floats and integers 
+
+Type conversions - when you put an integer and floating point number in an expression, the integer is implicitly converted to a float. You can control this with the functions float() and int()
+
+Integer division - integer division produces a floating point result
+
+String conversions - You can use float() and int() to convert between strings and integers, you will get an error if the string does not contain numeric characters 
+
+
 
