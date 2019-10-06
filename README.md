@@ -176,7 +176,7 @@ Chapter 3: (3 hours)
  - If the code in the try fails, it jumps to the except section 
  - Usually used to test for errors within code without python actually stopping your code 
  
-Chapter 4: ( hours)
+Chapter 4: (2 hours)
 -
  
  Using the def function you can essentially store lines of code within your own function for use later
@@ -193,6 +193,32 @@ Chapter 4: ( hours)
  
  **Building your own functions:**
  - You create new functions using the **def** keyword
+ - Indent the body of the function
+ - This defines the function but does not execute the body of the function
+ - You need to reuse (call or invoke)the code you defined in order for python to execute it 
+ 
+**Arguments:**
+- An argument is a value you pass into the function and its input when we call the function 
+- You use arguments so you can direct the function to do different kinds of work when you call it at different times
+- You put the arguments in the parenthesis after the name of the function 
+
+**Parameter:** 
+- A paramter is a variable which you use in the function definition. It is a "handle" that allows the code in the function to access the arguments for a particular function invocation
+- Allows for you to have code that is almost the same but does something a little different than another parameter 
+
+**Return Values:**
+- Often a function will take its arguments, do some computation, and return a value to be used as the value of the function call in the calling expression. The return keyword is used for this.
+- A "fruitful" funtion is one that produces a return value (or result)
+- A "nonfruitful" function is one that does not produce a return value
+- The return statement ends the function execution and "sends back" the result of the function
+
+**Multiple parameters/arguments:**
+- You can define more than one parameter in the function definition 
+- You simply add more arguments when you call the function 
+- You match the number and order of arguments and parameters
+
+
+ 
 
 
 
