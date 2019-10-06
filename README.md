@@ -173,11 +173,22 @@ Comparison operators:
  - If the code in the try fails, it jumps to the except section 
  - Usually used to test for errors within code without python actually stopping your code 
  
- **Chapter 4: ( hours)**
+#Chapter 4: ( hours)
  
+ Using the def function you can essentially store lines of code within your own function for use later
  
+ **max() function** - can search for things within an input, for example it can search for biggest letter or the smallest.
  
+ Type conversions:
+ - When you put an integer and floating point in an expression, the integer is implicitly converted to a float
+ - You can control this with the built in functions **int()** and **float()**
  
+ String Conversions:
+ - You can also use **int()** and **float()** to convert between strings and integers 
+ - You will get an error if the string doesn't contain numeric characters
+ 
+ Building your own functions:
+ - You create new functions using the **def** keyword
 
 
 
