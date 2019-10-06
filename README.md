@@ -77,7 +77,8 @@ Complete independent program (2 hours)
 
 -
 
-**Chapter 1: (2 hours)**
+Chapter 1: (2 hours)
+-
 
 Started to go through the basic introductions of the course. Learned about the instuctor and some of the very basics of the course and why it was made. Ended after the "Why program?" section. Mostly this section was about why programming is important and why people should have some basic knowledge of the course.
 
@@ -131,8 +132,8 @@ Comments in python - anything after a # is ignored in python
   - document who wrote the code
   - turn off a line of code (maybe temporarily)
 
-**Chapter 3: (3 hours)**
-
+Chapter 3: (3 hours)
+- 
 If statement:
   - reserved word that indicates you're going to be doing something conditionally
   - if the criteria is true then it executes the code, if it is false it moves onto the next condition and tests the same thing over again 
@@ -173,7 +174,8 @@ Comparison operators:
  - If the code in the try fails, it jumps to the except section 
  - Usually used to test for errors within code without python actually stopping your code 
  
-#Chapter 4: ( hours)
+Chapter 4: ( hours)
+-
  
  Using the def function you can essentially store lines of code within your own function for use later
  
