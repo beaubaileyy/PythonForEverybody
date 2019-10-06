@@ -233,9 +233,19 @@ Chapter 5 ( hours)
 **Continue statement:**
 - The **continue** statement ends the current iteration and jumps to the top of the loop and starts the next iteration 
 
+**Definite loop:**
+- Is finite
+- Go over all the lines of code 
+- For definite loops you use the **for** construct
+- Definite (for loops) have explicit iteration variables that change each time through a loop. These iteration variables move through the sequence or set
 
+**In statement:**
+- The iteration variable "iterates" through the sequence (ordered set)
+- The block (body) of code is executed once for each value in the sequence
+- The iteration variable moves through all of the values in the sequence
 
- 
-
-
-
+**Making "Smart Loops"** 
+- The trick is "knowing" something about whole loop when you are stuck writing code that only sees one entry at a time 
+- Set some variables to initial values 
+- for thing in data: Look for something or do something to each entry seperately, updating a variable 
+- Look at the variables 
