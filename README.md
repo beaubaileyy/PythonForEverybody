@@ -249,3 +249,19 @@ Chapter 5 ( hours)
 - Set some variables to initial values 
 - for thing in data: Look for something or do something to each entry seperately, updating a variable 
 - Look at the variables 
+
+**Counting in a loop:**
+- To count how many times we execute a loop, we introduce a counter variable that starts at 0 and we add one to it each time through the loop
+
+**Summing in a loop:**
+- To add up a value we encounter in a loop, we introduce a sum variable that starts at 0 and we add the value to the sum each time through the loop
+
+**Finding the average in the loop:**
+- An average just combines the counting and and sum patterns and divides when the loop is done
+
+**Filtering in a loop:**
+- We use an if statement to catch/ filter in the values we are looking for 
+
+**Search using a Boolean Variable:**
+- If you just want to search and know if a value was found, you use a variable that starts at false and is set to true as soon as we find what we are looking for
+
