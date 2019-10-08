@@ -217,7 +217,7 @@ Chapter 4: (2 hours)
 - You simply add more arguments when you call the function 
 - You match the number and order of arguments and parameters
 
-Chapter 5 ( hours)
+Chapter 5: (2 hours)
 - 
 
 **Repeated steps:**
@@ -264,4 +264,28 @@ Chapter 5 ( hours)
 
 **Search using a Boolean Variable:**
 - If you just want to search and know if a value was found, you use a variable that starts at false and is set to true as soon as we find what we are looking for
+
+Chapter 6: ( hours)
+- 
+
+
+
+Chapter 7: ( hours)
+- 
+
+
+
+Chapter 8: ( hours)
+- 
+
+
+
+Chapter 9: ( hours)
+- 
+
+
+
+Chapter 10: ( hours)
+- 
+
 
