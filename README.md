@@ -300,7 +300,16 @@ Chapter 6: ( hours)
 **Looping and Counting**
 - See attachment "Looping and counting"
 
+**Looking Deeper into in**
+- The iteration variable "iterates" through the sequence (ordered set)
+- The block (body) of code is executed once for each value in the sequence
+- The iteration variable moves through all of the values in the sequence 
 
+**Slicing Strings**
+- We can also look at any continuous section of a string using a colon operator
+- The second number is one beyond the end of the slice - "up to but not including"
+- If the second number is beyond the end of the string, it stops at the end
+- See attachment "Slicing Strings" for example
 
 Chapter 7: ( hours)
 - 
