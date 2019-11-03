@@ -265,7 +265,7 @@ Chapter 5: (2 hours)
 **Search using a Boolean Variable:**
 - If you just want to search and know if a value was found, you use a variable that starts at false and is set to true as soon as we find what we are looking for
 
-Chapter 6: ( hours)
+Chapter 6: (2 hours)
 - 
 
 **6.1 - Strings**
@@ -348,10 +348,10 @@ Chapter 6: ( hours)
 - lstrip() and rstrip() remove whitespace at the left or right
 - strip() removes both beginning and ending whitespace
 
-
-
 Chapter 7: ( hours)
 - 
+
+**7.1 - Files**
 
 
 
