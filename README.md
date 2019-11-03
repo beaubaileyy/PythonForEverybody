@@ -483,6 +483,46 @@ Sometimes we split a line one way, and then grab one of the pieces of the line a
 Chapter 9: ( hours)
 - 
 
+**9.1 Dictionaries**
+- 
+
+**What is a Collection?**
+- A collection is nice because we can put more than one value in it and carry them all around in one convenient package 
+- We have a bunch of values in a single "variable"
+- We do this by having more than one place "in" the variable 
+- We have ways of finding the different places in the variable
+
+**What is not a "Collection"?**
+Most of our variables have one value in them - when we put a new value in the variable - the old value is overwritten
+
+**Two Collections**
+List 
+- A linear collection of values that stay in order 
+Dictionary 
+- A "bag" of values, each with its own label
+
+**Dictionaries**
+- Dictionaries are Python's most powerful data collection
+- Dictionaries allow us to do fast database-like operations in Python
+- Dictionaries have different names in different languages 
+  - Associative Arrays - Perl/PHP
+  - Properties or Map or Hashmap - Java 
+  - Property Bag - C# / .Net
+  
+- Lists index their entries based on the position in the list
+- Dictionaries are like bags - no order
+- So we index the things we put into the dictionary with a "lookup tag"
+
+**Comparing Lists and Dictionaries**
+- Dictionaries are like lists except that they use keys instead of numbers to look up values
+
+**Dictionary Literals (Constants)**
+- Dictionary literals use curly brackets and have a list of key : value pairs
+- You can make an empty dictionary using empty curly brackets
+
+**9.2 - Counting with Dictionaries**
+- 
+
 
 
 Chapter 10: ( hours)
