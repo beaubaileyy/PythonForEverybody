@@ -404,10 +404,81 @@ Chapter 7: (2 hours)
 **Using in to Select Lines**
 - We can look for a string anywhere in a line as out selection criteria 
 
-Chapter 8: ( hours)
+Chapter 8: (2 hours)
 - 
 
+**8.1 - Lists**
+- 
 
+**Programming**
+Algorithms 
+- A Set of rules or steps used to solve a problem
+Data Structures
+- A particular way of organizing data in a computer
+
+**What is Not a "Collection"?**
+- Most of our variables have one value in them - when we put a new value in the variable, the old value is overwritten
+
+**A List is a Kind of Collection**
+- A collection allows us to put many values in a single "variable"
+- A collection is nice because we can carry many values around in one convenient package
+
+**List Constants**
+- List constants are surrounded by square brackets and the elements in the list are seperated by commas 
+- A list element can be any Python object - even another list
+- A list can be empty
+
+**Looking Inside Lists**
+- Just like strings, we can get at any single element in a list using an index specific in square brackets
+
+**Lists are Mutable**
+- Strings are "immutable" - we cannot change the contents of a string - we must make a new string to make any change
+- Lists are "mutable" - we can change an element of a list using the index operator
+
+**How Long is a List?**
+- The len() function takes a list as a parameter and returns the number of elements in the list
+- Actually len() tells us the number of elements of any set or sequence (such as a string...)
+
+**Using the Range Function**
+- The range function returns a list of numebrs that range from zero to one less than the parameter 
+- We can construct an index loop using for and an integer iterator
+
+**8.2 - Manipulating Lists**
+- 
+
+**Concatenating Lists Using +**
+We can create a new list by adding two existing lists together by using +
+
+**Lists can be Slices Using :**
+Remember: Just like in strings, the second number is "up to but not including"
+
+**Building a List from Scratch**
+- We can create an empty list and then add elements using the append method
+- The list stays in order and new elements are added at the end of the list
+
+**Is something in a List?**
+- Python provides two operators that let you check if an item is in a list
+- These are logical operators that return True or False
+- They do not modify the list
+
+**Lists are in the Order**
+- A list can hold many items and keeps those items in the order until we do something to change the order
+- A list can sorted (i.e., change its order)
+- The sort method (unlike in strings) mean "sort yourself"
+
+**Built-in Functions and Lists**
+- There are a number of functions built inito Python that take lists as parameters
+
+**8.3 - Lists and Strings**
+- 
+
+**Best Friends: Strings and Lists**
+- Split breaks a string into parts and produces a list of strings. We think of these as words. We can access a particular word or loop through all the words.
+- When you do not specify a delimiter, multiple spaces are treated like one delimiter
+- You can specify what delimiter character to use in the splitting
+
+**The Double Split Pattern**
+Sometimes we split a line one way, and then grab one of the pieces of the line and split that piece again
 
 Chapter 9: ( hours)
 - 
