@@ -350,10 +350,11 @@ Chapter 6: (2 hours)
 - lstrip() and rstrip() remove whitespace at the left or right
 - strip() removes both beginning and ending whitespace
 
-Chapter 7: ( hours)
+Chapter 7: (2 hours)
 - 
 
 **7.1 - Files**
+-
 
 **File processing**
 - A text file can be thought of as a sequence of lines
@@ -374,6 +375,34 @@ Chapter 7: ( hours)
 - We use a special character called the "newline" to indicate when a line ends
 - We represent it as \n in strings
 - Newline is still one character - not two 
+
+**7.2 - Processing Files**
+- 
+
+**File Handle as a Sequence**
+- A file handle open for read can be treated as a sequence of strings where each line in the file is a string in the sequence 
+- We can use the for statement to iterate through a sequence 
+- Remember - a sequence is an ordered set
+
+**Counting Lines in a File**
+- Open a file read-only
+- Use a for loop to read each line
+- Count the lines and print out the number of lines
+
+**Reading the *Whole* File**
+- We can read the whole file (newlines and all) into a single string
+  - Using .read()
+  
+**Searching Through a File**
+- We can put an if statement in our for loop to only print lines that meet some criteria 
+- We can strip the whitespace from the right-hand side of the string using rstrip() from the string library
+- the newline is considered "white space" and is stripped
+
+**Skipping with Continue**
+- We can conveniently skip a line by using the continue statement
+
+**Using in to Select Lines**
+- We can look for a string anywhere in a line as out selection criteria 
 
 Chapter 8: ( hours)
 - 
