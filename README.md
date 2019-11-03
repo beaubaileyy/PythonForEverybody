@@ -523,6 +523,27 @@ Dictionary
 **9.2 - Counting with Dictionaries**
 - 
 
+**Many Counters with a Dictionary**
+- One common use of dictionaries is counting how often we "see" something
+
+**Dictionary Tracebacks**
+- It is an error to reference a key which is not in the dictionary
+- We can use the in operator to see if a key is in the dictionary
+
+**When we See a New Name**
+When we encounter a new name, we need to add a new entry in the dictionary and if this the second or later time we have seen the name, we simply add one to the count in the dictionary under that name 
+
+**The get Method for Dictionaries**
+The pattern of checking to see if a key is already in a dictionary and assuming a default value if the key is not there is so common that there is a method called get() that does this for us
+
+Default value if key does not exist (and no Traceback)
+
+**Simplified Counting with get()**
+We can use get() and provide a default value of zero when the key is not yet in the dictionary - and then just add one
+
+**9.3 - Dictionaries and Files**
+- 
+
 
 
 Chapter 10: ( hours)
