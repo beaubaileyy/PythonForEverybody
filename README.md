@@ -268,6 +268,8 @@ Chapter 5: (2 hours)
 Chapter 6: ( hours)
 - 
 
+**6.1 - Strings**
+
 **String Data Type**
 - A string is a sequence of characters 
 - A literal string uses quotes 'hello' or "hello"
@@ -310,6 +312,43 @@ Chapter 6: ( hours)
 - The second number is one beyond the end of the slice - "up to but not including"
 - If the second number is beyond the end of the string, it stops at the end
 - See attachment "Slicing Strings" for example
+
+**6.2 - Manipulating Strings**
+
+**String Concatenation**
+- When the + operator is applied to strings, it means "concatenation"
+
+**Using in as a Logical Operator**
+- The in keyword can also be used to check to see if one string is "in" another string
+- The in expressoin is a logical expression that returns TRUE or FALSE and can be used in an if statment
+
+**String Library**
+- Python has a number of string functions which are in the string library
+- These functions are already built into every string - we invoke them by appending the function to the string variable
+- These functions do not modify the original string, instead they returrn a new string that has been altered
+
+**Searching a String**
+- We use the find() function to search for a substring within another string
+- find() finds the first occurance of the substring
+- If the substring is not found, find() returns -1
+- Remember that string position starts at zero 
+
+**Making Everything UPPER CASE**
+- You can make a copy of a string in lower case or upper case 
+  - .upper()
+  - .lower()
+- Often when we are searching for a string using find() we first convert the string to lower case so we can search a string regardless of case
+
+**Search and Replace**
+- The replace() function is like a "search and replace" operation in a word processor
+- It replaces all occurences of the search string with the replacement string
+
+**Stripping Whitespace**
+- Sometimes we want to take a string and remove whitespace at the beginning and/or end
+- lstrip() and rstrip() remove whitespace at the left or right
+- strip() removes both beginning and ending whitespace
+
+
 
 Chapter 7: ( hours)
 - 
