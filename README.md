@@ -269,6 +269,7 @@ Chapter 6: (2 hours)
 - 
 
 **6.1 - Strings**
+-
 
 **String Data Type**
 - A string is a sequence of characters 
@@ -314,6 +315,7 @@ Chapter 6: (2 hours)
 - See attachment "Slicing Strings" for example
 
 **6.2 - Manipulating Strings**
+-
 
 **String Concatenation**
 - When the + operator is applied to strings, it means "concatenation"
@@ -353,7 +355,25 @@ Chapter 7: ( hours)
 
 **7.1 - Files**
 
+**File processing**
+- A text file can be thought of as a sequence of lines
 
+**Opening a File**
+- Before we can read the contents of the file, we must tell Python which file we are going to work with and what we will be doing with the file
+- This is done with the open() function
+- open() returns a "file handle" - a variable used to perform operations on the file
+- Similar to "File -> Open" in a word processor
+
+**Using open()**
+- handle = open(filename, mode)
+-returns a handle use to manipulate the file
+- filename is a string
+- mode iis optional and should be 'r' if we are planning to read the file and 'w' if we are going to write to the file
+
+**The newline Character**
+- We use a special character called the "newline" to indicate when a line ends
+- We represent it as \n in strings
+- Newline is still one character - not two 
 
 Chapter 8: ( hours)
 - 
