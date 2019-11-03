@@ -268,6 +268,38 @@ Chapter 5: (2 hours)
 Chapter 6: ( hours)
 - 
 
+**String Data Type**
+- A string is a sequence of characters 
+- A literal string uses quotes 'hello' or "hello"
+- for strings, + means "concatenate"
+- when a string contains numbers, it is still a string
+- we can convert numbers in a string into a number using int()
+
+**Reading and Converting Strings**
+- We prefer to read data in using strings and then parse and convert the data as we need it 
+- This gives us more control over error situations and/or bad user input 
+- Input numbers must be converted from strings
+
+**Looking Inside Strings**
+- We can get at any single character in a string using an index specified in square brackets 
+- The index value must be an integer and starts at zero
+- The index value can be an expression that is completed
+
+**A Character Too Far**
+- You will get a python error if you attempt to index beyond the end of a string
+- So be careful when contructing index values and slices
+
+**Strings Have Length**
+- The built in function len gives us the length of a string
+
+**Looping Through Strings**
+- Using a while statement and an iteration variable, and the len function, we can construct a loop to look at each of the letters in a string individually
+- A definite loop using a for statement is much more neat 
+- The iteration variable is completely taken care of by the for loop
+
+**Looping and Counting**
+- See attachment "Looping and counting"
+
 
 
 Chapter 7: ( hours)
