@@ -558,7 +558,7 @@ You can get a list of keys, values, or items (both) from a dictionary
 - Each iteration, the first variable is key and the second variable is the corresponding value for the key
 
 
-Chapter 10: ( hours)
+Chapter 10: (1.5 hours)
 - 
 
 **10 - Tuples**
