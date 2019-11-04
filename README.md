@@ -480,7 +480,7 @@ Remember: Just like in strings, the second number is "up to but not including"
 **The Double Split Pattern**
 Sometimes we split a line one way, and then grab one of the pieces of the line and split that piece again
 
-Chapter 9: ( hours)
+Chapter 9: (1.5 hours)
 - 
 
 **9.1 Dictionaries**
@@ -544,9 +544,57 @@ We can use get() and provide a default value of zero when the key is not yet in 
 **9.3 - Dictionaries and Files**
 - 
 
+**Counting Pattern**
+The general pattern to count the words in a line of text is to split the line into words, then looop through the words and use a dictionary to track the count of each word independently
+
+**Definite Loops and Dictionaries**
+- Even though dictionaries are not stored in order, we can write a for loop that goes through all the entries in a dictionary - actually it goes through all of the keys in the dictionary and looks up the values
+
+**Retrieving lists and Keys and Values**
+You can get a list of keys, values, or items (both) from a dictionary
+
+**Two iteration variables**
+- We loop through the key-value pairs in a dictionary using *two* iteration variables 
+- Each iteration, the first variable is key and the second variable is the corresponding value for the key
 
 
 Chapter 10: ( hours)
 - 
+
+**10 - Tuples**
+- 
+
+**Tuples are like Lists**
+Tuples are another kind of sequence that functions much like a list
+- They have elements which are indexed starting at 0
+
+**Tuples are "immutable"**
+- Unlike a list, once you create a tuple, you cannot alter its contents - similar to a string
+
+**Tuples are more Efficient**
+- Since python does not have to build tuple structures to be modifiable, they are simpler and more efficient in terms of memory use and performance than lists
+- So in our program when we are making "temporary variables" we prefer tuples over lists
+
+**Tuples and Assignment**
+- We can also put a tuple on the left-hand side of an assignment statement 
+- We can even omit a parenthesis
+
+**Tuples and Dictionaries**
+- The items() method in dictionaries returns a list of (key value) tuples
+
+**Tuples are Comparable**
+The comparison operators work with tuples and other sequences. If the first item is equal, Python goes on to the next element, and so on, until it finds elements that differ.
+
+**Sorting Lists of Tuples**
+- We can take advantage of the ability to sort a list of tuples to get a sorted version of the dictionary
+- First we sort the dictionary by the key using the items() method and sorted() function
+
+**Using sorted()**
+We can do this even more directly using the built-in function sorted that takes a sequence as a parameter and returns a sorted sequence
+
+**Sort by Values Instead of Key**
+- If we could construct a list of tuples of the form (value,key) we could sort by value
+- We do this with a for loop that creates a list of tuples
+
 
 
